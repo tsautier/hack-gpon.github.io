@@ -222,7 +222,7 @@ diag port set phy-force-power-down port 1 state disable
 
 # enable lan 3
 mib set SW_PORT_TBL.2.Enable 1
-# disable lan 3power down state
+# disable lan 3 power down state
 diag port set phy-force-power-down port 2 state disable 
 
 #enable lan 4
@@ -242,3 +242,5 @@ mib set WLAN1_MBSSIB_TBL.0.wlanDisabled 0
 sysconf multi_ap_wlan_reinit
 ```
 
+# Teardown and other photos
+{% include image.html file="Prolink-PGN6401V-twopcb.jpg" alt="Two Prolink PGN6401V PCBs" caption="2 Prolink PGN6401V PCBs" %}
