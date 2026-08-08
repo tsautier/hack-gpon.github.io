@@ -31,6 +31,9 @@ parent: Prolink
 
 {% include image.html file="Prolink-PGN6401V-pcbtop.jpg" alt="Prolink PGN6401V PCB top" caption="Prolink PGN6401V PCB top" %}
 
+{% include image.html file="Prolink-PGN6401V-pcbbottom.jpg" alt="Prolink PGN6401V PCB bottom" caption="Prolink PGN6401V PCB bottom" %}
+
+
 # Serial
 
 {% include image.html file="Prolink-PGN6401V-ttl.jpg" alt="Serial Pinout (dont connect vcc)" caption="Serial Pinout (dont connect vcc)" %}
@@ -212,7 +215,7 @@ reboot
 ```
 # enable lan 1
 mib set SW_PORT_TBL.0.Enable 1
-# disable lan1 power down state
+# disable lan 1 power down state
 diag port set phy-force-power-down port 0 state disable 
 
 #enable lan 2
