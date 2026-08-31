@@ -15,12 +15,12 @@ parent: UFiber
 | Model        | UF-LOCO                                  |
 | Chipset      |                                          |
 | Flash        |                                          |
-| RAM          |                                          |
+| RAM          | 128 MB DDR3                                         |
 | System       |                                          |
 | Optics       | SC/APC                                   |
-| IP address   |                                          |
+| IP address   | 192.168.1.1                                        |
 | Web Gui      | ✅                                       |
-| SSH          |                                          |
+| SSH          | ✅                                        |
 | Telnet       | ✅                                       |
 | Serial       |                                          |
 | Form Factor  | ONT                                      |
@@ -37,3 +37,4 @@ parent: UFiber
 
 - [Ubiquiti Store Page](https://store.ui.com/us/en/category/fiber-gpon/products/ufiber-loco)
 - [Installation Guide](https://ui.com/qig/uf-loco)
+- [UFiber Configuration Tool](https://github.com/Unifi-Tools/UFiber.Configurator)
