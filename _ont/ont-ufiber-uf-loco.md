@@ -20,7 +20,7 @@ parent: UFiber
 | Optics       | SC/APC                                   |
 | IP address   |                                          |
 | Web Gui      | ✅                                       |
-| SSH          |                                          |
+| SSH          | ✅                                        |
 | Telnet       | ✅                                       |
 | Serial       |                                          |
 | Form Factor  | ONT                                      |
@@ -37,3 +37,4 @@ parent: UFiber
 
 - [Ubiquiti Store Page](https://store.ui.com/us/en/category/fiber-gpon/products/ufiber-loco)
 - [Installation Guide](https://ui.com/qig/uf-loco)
+- [UFiber Configuration Tool](https://github.com/Unifi-Tools/UFiber.Configurator)
