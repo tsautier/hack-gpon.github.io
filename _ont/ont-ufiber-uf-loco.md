@@ -15,10 +15,10 @@ parent: UFiber
 | Model        | UF-LOCO                                  |
 | Chipset      |                                          |
 | Flash        |                                          |
-| RAM          |                                          |
+| RAM          | 128 MB DDR3                                         |
 | System       |                                          |
 | Optics       | SC/APC                                   |
-| IP address   |                                          |
+| IP address   | 192.168.1.1                                        |
 | Web Gui      | ✅                                       |
 | SSH          | ✅                                        |
 | Telnet       | ✅                                       |
